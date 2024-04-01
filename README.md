@@ -31,6 +31,7 @@
 # ☁ Salesforce Credentials
 
 <div align="center">
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="Platform Developer 1"/>
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu1&oid=00DF0000000gZsu&lastMod=1617267944000" height="100" alt="Advanced Administrator"/>  
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" height="100" alt="Administrator"/>
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268490000" height="100" alt="Platform App Builder"/>
