@@ -11,7 +11,7 @@
 
 📫 How to reach me **rafia_wakaar@hotmail.com**
 
-🏅 [3x Certified Salesforce](https://www.salesforce.com/trailblazer/profile)
+🏅 [4x Certified Salesforce](https://www.salesforce.com/trailblazer/profile)
 
 # ⚙ Salesforce Skills
 <table width="100%" style="border:0px;">
